@@ -1,0 +1,4 @@
+#Wed Jun 16 00:18:29 IST 2021
+base.0=/home/dhruxy/CSOC-Week1-Tic-Tac-Toe-Flutter/build/app/intermediates/dex/release/minifyReleaseWithR8/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
